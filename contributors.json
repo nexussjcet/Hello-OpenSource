@@ -171,7 +171,17 @@
     "image": "./images/christina_pic.jpg",
     "description": "CSE student with a passion for tech.",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
+  },
+
+  {
+    "name": "Gokul Shaji",
+    "current_position": "B.Tech in Computer Science and Engineering",
+    "github": "https://github.com/GokulShaji2005",
+    "linkedin": "www.linkedin.com/in/gokul-shaji-848334328",
+    "description": "Interested in Full Stack development",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   }
+
 
 
 ]
