@@ -171,8 +171,16 @@
     "image": "./images/christina_pic.jpg",
     "description": "CSE student with a passion for tech.",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
-  }
-
+  },
+  {
+      "name": "Aswathi Biju",
+      "department": "Computer Science and Engineering",
+      "github": "https://github.com/Aswathi-Biju",
+      "linkedin": "https://www.linkedin.com/in/aswathi-biju/",
+      "image": "./images/aswathi.jpg",
+      "description": "1st Year CSE student",
+      "college": "St. Joseph's College of Engineering and Technology, Palai"
+}
 
 ]
 
