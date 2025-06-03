@@ -171,7 +171,17 @@
     "image": "./images/christina_pic.jpg",
     "description": "CSE student with a passion for tech.",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
+  },
+  {
+    "name": "Nikkita Anna George",
+    "current_position": "B.Tech in Computer Science and Engineering",
+    "github": "https://github.com/NikkitaAnnaGeroge",
+    "linkedin": "https://www.linkedin.com/in/nikkita-anna-george-a39807327/",
+    "image": "./images/christina_pic.jpg",
+    "description": "1st Year CSE student Knowledge in coding,leadership".
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   }
+
 
 
 ]
